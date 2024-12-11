@@ -10,8 +10,8 @@ Code to train the RNNs is supplied in a Jypter notebook. To run this code on you
 
 MATLAB code necessary to reproduce the simulations and analysis of the RNN is supplied in scripts:
 
-RNN_Simulation_Analysis.m
-RNN_Lesion_Analysis.m
+RNN_Simulation_Analysis.m, 
+RNN_Lesion_Analysis.m, &
 RNN_Simulation_Analysis.m
 
 To run these scripts either add the location of the saved weights from the Jypoter notebook to the MATLAB path, or for those wanting to just reproduce the simulations, unzip the file EffectiveWeights.zip and add its location to the MATLAB path. 
