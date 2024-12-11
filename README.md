@@ -6,7 +6,7 @@ This repository contains the code necessary to reproduce the data analysis and m
 
 All code and data necessary to reproduce the RNN simulations and analyses can be found in the RNN_Modelling&Analysis folder. 
 
-Code to train the RNNs is supplied in a Jypter notebook. To run this code on your computer ensure that all the necessary dependencies are installed and add the desired paths to lines 317,354,364,355,366, to save the weights. 
+Code to train the RNNs is supplied in a Jypter notebook. To run this code on your computer ensure that all the necessary dependencies are installed and add the desired paths to lines 317, 354, 364, 355, and 366, to save the weights. 
 
 MATLAB code necessary to reproduce the simulations and analysis of the RNN is supplied in scripts:
 
