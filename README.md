@@ -18,4 +18,4 @@ To run these scripts either add the location of the saved weights from the Jypot
 
 Tutorial style code implementing the allocentric and egocentric landscape analyses on a simple dynamical system (normal form of a super critical pitchfork bifurcation) is supplied in the script:
 
-EnergyLandscape_Tutorial.m 
+[EnergyLandscape_Tutorial.m ](https://github.com/cjwhyte/AmbiguousFigures/blob/patch-1/RNN_Modelling%26Analysis/EnergyLandscape_Tutorial.m)
