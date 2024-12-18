@@ -14,7 +14,7 @@ MATLAB code necessary to reproduce the simulations and analysis of the RNN is su
 [RNN_Lesion_Analysis.m](https://github.com/cjwhyte/AmbiguousFigures/blob/patch-1/RNN_Modelling%26Analysis/RNN_Lesion_Analysis.m), &
 [RNN_Simulation_Analysis.m](https://github.com/cjwhyte/AmbiguousFigures/blob/patch-1/RNN_Modelling%26Analysis/RNN_Attractor_Analysis.m)
 
-To run these scripts either add the location of the saved weights from the Jypoter notebook to the MATLAB path, or for those wanting to just reproduce the simulations, unzip the file EffectiveWeights.zip and add its location to the MATLAB path. 
+To run these scripts either add the location of the saved weights from the Jypoter notebook to the MATLAB path, or for those wanting to just reproduce the simulations, unzip the file [EffectiveWeights.zip](https://github.com/cjwhyte/AmbiguousFigures/blob/patch-1/RNN_Modelling%26Analysis/EffectiveWeights.zip) and add its location to the MATLAB path. 
 
 Tutorial style code implementing the allocentric and egocentric landscape analyses on a simple dynamical system (normal form of a super critical pitchfork bifurcation) is supplied in the script:
 
