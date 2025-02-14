@@ -20,6 +20,7 @@ Tutorial style code implementing the allocentric and egocentric landscape analys
 
 [EnergyLandscape_Tutorial.m ](https://github.com/cjwhyte/AmbiguousFigures/blob/patch-1/RNN_Modelling%26Analysis/EnergyLandscape_Tutorial.m)
 
+---
 
 # Pupil Analysis
 
