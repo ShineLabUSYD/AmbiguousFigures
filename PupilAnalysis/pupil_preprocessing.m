@@ -1,5 +1,5 @@
-%% Pupil Bistable Task
-% This script imports and preprocesses data for the pupil bistable task.
+%% Pupil Ambiguous figures Task
+% This script imports and preprocesses data for the Ambiguous figures Task.
 % It reads ASC files, extracts event and pupil data, performs preprocessing
 % (including blink removal and drift outlier elimination), and splits the
 % pupil data by block.
@@ -153,3 +153,4 @@ for sub = 1:35
     % Save the block-split pupil data in the Data structure
     Data(sub).pupil_block = pupil_block;
 end
+
