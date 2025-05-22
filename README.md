@@ -41,6 +41,9 @@ The pupil analysis pipeline comprises MATLAB scripts and functions that preproce
 
 The fMRI analysis pipeline includes MATLAB scripts that process BOLD fMRI data, perform GLM analysis, compute PCA, and implement principal component regression (PCR).
 
+- **[bold_data1-4.m](https://github.com/ShineLabUSYD/AmbiguousFigures/bold_data1-4.m)**  
+  *Parcellated time series for each of the participants - broken into 4 for ease of upload*
+
 - **[bold_glm_analysis.m](https://github.com/ShineLabUSYD/AmbiguousFigures/tree/main/fMRIAnalysis/bold_glm_analysis.m)**  
   *Script to perform GLM analysis on fMRI BOLD data using a behavioral design matrix. It includes HRF convolution of design regressors and outputs beta coefficients and p-values.*
 
